@@ -10,6 +10,6 @@
 - **Input:** JSON object with updated product details
 - **Output:** Confirmation of product update
 
-###Delete Product
+### Delete Product
 - **Method:** `DELETE`
 - **Output:** Confirmation of product deletion
