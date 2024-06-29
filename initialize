@@ -1,0 +1,3 @@
+mkdir instiolx-api
+cd instiolx-api
+npm init -y
